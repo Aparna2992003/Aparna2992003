@@ -1,5 +1,6 @@
+![gity](https://github.com/user-attachments/assets/aa865ba7-f33b-4782-a8c2-9693ffeeafe0)
 <h1 align="center">Hi 👋, I'm Aparna</h1>
-<img align="right" width="400" src="C:\Users\91936\OneDrive - Kumaraguru College of Technology\Desktop\211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" width="400" src="gity.gif">
 <h3 align="center">A passionate coder and frontend developer!</h3>
 
 
