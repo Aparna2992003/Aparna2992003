@@ -1,6 +1,6 @@
 ![gity](https://github.com/user-attachments/assets/aa865ba7-f33b-4782-a8c2-9693ffeeafe0)
 <h1 align="center">Hi 👋, I'm Aparna</h1>
-<img align="right" width="100"  src="gity.gif">
+<img align="right" width="100px"height="100px"  src="gity.gif">
 <h3 align="center">A passionate coder and frontend developer!</h3>
 
 
